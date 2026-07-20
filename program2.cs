@@ -1,9 +1,5 @@
 //program2.cs aslinda program.cs ayni adda bir dosya oldugu icin karismamasi icin adini program2.cs koydum
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace C_3
 {
